@@ -1,0 +1,60 @@
+body{
+	background-color: #fafafa;
+	margin: 0px;
+    overflow: hidden;
+}
+
+.sketch-holder{
+	position: absolute;
+	left: 50%;
+}
+
+h1 {
+	font-family: Helvetica;
+	color: blue;
+	font-size: 250%;
+	text-align: left;
+	position: fixed;
+	left: 25%;
+	top: 38%;
+}
+
+h1a {
+	font-family: Helvetica;
+	color: blue;
+	position: absolute;
+	text-align: center;
+	left: 25.15%;
+	top: 48%;
+	font-size: 85%;
+}
+
+h2 {
+	font-family: Helvetica;
+	color: blue;
+	position: relative;
+	bottom: 150px;
+	transform: translateX(-40%);
+	text-align: center;
+}
+
+h3 {
+	font-family: Helvetica;
+	color: blue;
+	position: relative;
+	bottom: 100px;
+	transform: translateX(-43%);
+	text-align: center;
+}
+
+#Third{
+	position: absolute;
+	left: 68%;
+	top: 47.5%;
+}
+
+#Fourth{
+	position: absolute;
+	left: 495px;
+	top: 475px;
+}

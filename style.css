@@ -1,0 +1,15 @@
+h1 {
+  position: fixed;
+  font-family: Arial Black;
+  left: 30%;
+  top: 30%;
+  color: #101417;
+}
+
+body {
+  position: fixed;
+  font-family: Arial;
+  left: 29.8%;
+  top: 35%;
+  color: #414042;
+}
